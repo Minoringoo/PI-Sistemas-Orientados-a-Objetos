@@ -169,8 +169,19 @@ O diagrama de classes permite a visualização da parte estrutural do sistema, o
 
 * **Pós-condição:** o sistema informa “tente novamente mais tarde”.
 
+## PROTÓTIPO
+<img src="https://github.com/Minoringoo/PI-Sistemas-Orientados-a-Objetos/blob/main/Prancheta%2024%403x-8.png" width="300">,<IMG SRC="https://github.com/Minoringoo/PI-Sistemas-Orientados-a-Objetos/blob/main/Prancheta%2025%403x-8.png" WIDTH="300">,<IMG SRC="https://github.com/Minoringoo/PI-Sistemas-Orientados-a-Objetos/blob/main/Prancheta%2025%20cópia%203%403x-8.png" WIDTH="300">
+<IMG SRC="https://github.com/Minoringoo/PI-Sistemas-Orientados-a-Objetos/blob/main/Prancheta%2025%20cópia%202%403x-8.png" WIDTH="300">,<IMG SRC="https://github.com/Minoringoo/PI-Sistemas-Orientados-a-Objetos/blob/main/Prancheta%2025%20cópia%403x-8.png" WIDTH="300">,<IMG SRC="https://github.com/Minoringoo/PI-Sistemas-Orientados-a-Objetos/blob/main/Prancheta%2025%20cópia%207%403x-8.png" WIDTH="300">
+<IMG SRC="https://github.com/Minoringoo/PI-Sistemas-Orientados-a-Objetos/blob/main/Prancheta%2025%20cópia%205%403x-8.png" WIDTH="300">,<IMG SRC="https://github.com/Minoringoo/PI-Sistemas-Orientados-a-Objetos/blob/main/Prancheta%2025%20cópia%208%403x-8.png" WIDTH="300">,<IMG SRC="https://github.com/Minoringoo/PI-Sistemas-Orientados-a-Objetos/blob/main/Prancheta%2025%20cópia%204%403x-8.png" WIDTH="300">
+<IMG SRC="https://github.com/Minoringoo/PI-Sistemas-Orientados-a-Objetos/blob/main/Prancheta%2025%20cópia%2011%403x-8.png" WIDTH="300">,<IMG SRC="https://github.com/Minoringoo/PI-Sistemas-Orientados-a-Objetos/blob/main/Prancheta%2025%20cópia%206%403x-8.png" WIDTH="300">,<IMG SRC="https://github.com/Minoringoo/PI-Sistemas-Orientados-a-Objetos/blob/main/Prancheta%2025%20cópia%209%403x-8.png" WIDTH="300">
+
+
 ## CONCLUSÃO
 Os diagramas UML de casos de uso e de classes são de fundamental importância para o processo de desenvolvimento de software porque permitem aos profissionais visualizarem e compreenderem melhor o sistema que estão criando. O primeiro (casos de uso) permite que sejam identificados e definidos os requisitos e as funcionalidades que os sistemas deverão apresentar, enquanto o segundo (classes) auxilia na modelagem estrutural, apresentado as classes que constituem o sistema e como elas interagem entre si. Além disso, os diagramas proporcionam que o projeto seja bem documentado, que esteja de acordo com o que foi solicitado e que atenda às necessidades dos usuários, bem como facilita futuras manutenções e implementações (atualizações).
+
+Além dos diagramas UML de casos de uso e de classes, é crucial reconhecer que a Experiência do Usuário (UX) desempenha um papel vital em todo o processo de desenvolvimento de software. A UX se concentra na interação entre o usuário final e o sistema, garantindo que essa interação seja intuitiva, eficiente e agradável. Portanto, integrar considerações de UX desde o início do projeto é fundamental para o sucesso de qualquer software. Isso envolve a criação de interfaces que atendam às expectativas do usuário, a usabilidade eficaz e a satisfação do cliente.  
+
+ 
 
 ## REFERÊNCIAS
 
